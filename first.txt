@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Updates
 
 happened
+=======
+file changed in remote 
+>>>>>>> 2428d92104b7b5a171fb8558ae47b9552302a501
