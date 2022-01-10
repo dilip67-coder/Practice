@@ -11,3 +11,5 @@ Changes another time
 var i=10;
 
 var ooooo;
+
+New All Statement
